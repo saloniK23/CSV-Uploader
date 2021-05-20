@@ -1,0 +1,10 @@
+
+thead {
+    color: inherit;
+    display: table-row;
+    outline: none;
+    vertical-align: middle;
+	border-top: 1px solid rgb(232, 236, 239);
+    border-bottom: 1px solid rgb(232, 236, 239);
+    cursor: pointer;
+}
